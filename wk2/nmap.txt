@@ -1,0 +1,57 @@
+nmap quora.com
+Starting Nmap 7.80 ( https://nmap.org ) at 2022-01-17 14:46 UTC
+Nmap scan report for quora.com (54.88.34.246)
+Host is up (0.031s latency).
+Other addresses for quora.com (not scanned): 3.223.144.55 54.198.45.233 34.233.72.67 3.216.2.79 3.220.94.245 35.172.2.26 3.221.252.101
+rDNS record for 54.88.34.246: ec2-54-88-34-246.compute-1.amazonaws.com
+Not shown: 998 filtered ports
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+---------------------------------------------
+
+ nmap 500 quora.com
+Starting Nmap 7.80 ( https://nmap.org ) at 2022-01-17 14:46 UTC
+Nmap scan report for quora.com (3.221.252.101)
+Host is up (0.031s latency).
+Other addresses for quora.com (not scanned): 35.172.2.26 3.220.94.245 3.216.2.79 34.233.72.67 54.198.45.233 3.223.144.55 54.88.34.246
+rDNS record for 3.221.252.101: ec2-3-221-252-101.compute-1.amazonaws.com
+Not shown: 998 filtered ports
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap done: 2 IP addresses (1 host up) scanned in 5.49 seconds
+
+---------------------------------------------
+
+root@lamp-ubuntu-s-1vcpu-1gb-tor1-01:~# nmap -p 1-100 quora.com
+Starting Nmap 7.80 ( https://nmap.org ) at 2022-01-17 14:47 UTC
+Nmap scan report for quora.com (3.223.144.55)
+Host is up (0.031s latency).
+Other addresses for quora.com (not scanned): 54.163.138.218 52.203.213.140 100.25.123.88 35.172.2.26 3.221.252.101 3.220.122.146 18.211.155.185
+rDNS record for 3.223.144.55: ec2-3-223-144-55.compute-1.amazonaws.com
+Not shown: 99 filtered ports
+PORT   STATE SERVICE
+80/tcp open  http
+
+Nmap done: 1 IP address (1 host up) scanned in 1.94 seconds
+
+--------------------------------------------
+
+
+Nmap done: 1 IP address (1 host up) scanned in 1.94 seconds
+root@lamp-ubuntu-s-1vcpu-1gb-tor1-01:~# ^C
+root@lamp-ubuntu-s-1vcpu-1gb-tor1-01:~# nmap -F quora.com
+Starting Nmap 7.80 ( https://nmap.org ) at 2022-01-17 14:47 UTC
+Nmap scan report for quora.com (18.211.155.185)
+Host is up (0.031s latency).
+Other addresses for quora.com (not scanned): 3.220.122.146 3.221.252.101 35.172.2.26 100.25.123.88 52.203.213.140 54.163.138.218 3.223.144.55
+rDNS record for 18.211.155.185: ec2-18-211-155-185.compute-1.amazonaws.com
+Not shown: 98 filtered ports
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap done: 1 IP address (1 host up) scanned in 2.21 seconds

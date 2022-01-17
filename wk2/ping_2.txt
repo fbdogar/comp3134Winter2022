@@ -1,0 +1,12 @@
+PS G:\My Drive\GBC\Semester 6\1) Intro to Cyber Security\git clone\comp3134Winter2022\wk2> ping 159.203.62.249
+
+Pinging 159.203.62.249 with 32 bytes of data:
+Reply from 159.203.62.249: bytes=32 time=14ms TTL=55
+Reply from 159.203.62.249: bytes=32 time=12ms TTL=55
+Reply from 159.203.62.249: bytes=32 time=12ms TTL=55
+Reply from 159.203.62.249: bytes=32 time=10ms TTL=55
+
+Ping statistics for 159.203.62.249:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 10ms, Maximum = 14ms, Average = 12ms

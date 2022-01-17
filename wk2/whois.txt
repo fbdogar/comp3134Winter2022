@@ -1,0 +1,195 @@
+Twitter
+=============================
+
+Registrant	Twitter, Inc.
+Registrant Org	Twitter, Inc.
+Registrant Country	us
+Registrar	CSC CORPORATE DOMAINS, INC. CSC Corporate Domains, Inc.
+IANA ID: 299
+URL: www.cscprotectsbrands.com,http://cscdbs.com
+Whois Server: whois.corporatedomains.com
+
+(p)
+Registrar Status	clientTransferProhibited, serverDeleteProhibited, serverTransferProhibited, serverUpdateProhibited
+Dates	8,032 days old
+Created on 2000-01-21
+Expires on 2023-01-21
+Updated on 2022-01-16	  
+Name Servers	A.R06.TWTRDNS.NET (has 10 domains)
+B.R06.TWTRDNS.NET (has 10 domains)
+C.R06.TWTRDNS.NET (has 10 domains)
+D.R06.TWTRDNS.NET (has 10 domains)
+D01-01.NS.TWTRDNS.NET (has 10 domains)
+D01-02.NS.TWTRDNS.NET (has 10 domains)
+NS3.P34.DYNECT.NET (has 224,706 domains)
+NS4.P34.DYNECT.NET (has 224,706 domains)
+  
+Tech Contact	REDACTED FOR PRIVACY (DT)
+Twitter, Inc.
+1355 Market Street,
+San Francisco, CA, 94103, us
+(p) (f)
+IP Address	104.244.42.65 - 11 other sites hosted on this server
+  
+IP Location	United States - California - San Francisco - Twitter Inc.
+ASN	United States AS13414 TWITTER, US (registered Jul 09, 2010)
+Domain Status	Registered And Active Website
+IP History	200 changes on 200 unique IP addresses over 17 years	  
+Registrar History	5 registrars	  
+Hosting History	4 changes on 4 unique name servers over 16 years	  
+ Website
+Website Title	None given.	  
+Server Type	tsa_a
+Response Code	349
+Terms	13 (Unique: 13, Linked: 0)
+Images	0 (Alt tags missing: 0)
+Links	0   (Internal: 0, Outbound: 0)
+
+====================================================
+
+Facebook
+==========================
+
+Registrant	REDACTED FOR PRIVACY (DT)
+Registrant Org	Facebook, Inc.
+Registrant Country	us
+Registrar	RegistrarSafe, LLC
+IANA ID: 3237
+URL: https://www.registrarsafe.com,http://www.registrarsafe.com
+Whois Server: whois.registrarsafe.com
+
+(p)
+Registrar Status	clientDeleteProhibited, clientTransferProhibited, clientUpdateProhibited, serverDeleteProhibited, serverTransferProhibited, serverUpdateProhibited
+Dates	9,061 days old
+Created on 1997-03-28
+Expires on 2031-03-29
+Updated on 2021-10-18	  
+Name Servers	A.NS.FACEBOOK.COM (has 19,101 domains)
+B.NS.FACEBOOK.COM (has 19,101 domains)
+C.NS.FACEBOOK.COM (has 19,101 domains)
+D.NS.FACEBOOK.COM (has 19,101 domains)
+  
+Tech Contact	REDACTED FOR PRIVACY (DT)
+Facebook, Inc.
+1601 Willow Rd,
+Menlo Park, CA, 94025, us
+(p) (f)
+IP Address	157.240.3.35 - 257 other sites hosted on this server
+  
+IP Location	United States - Washington - Seattle - Facebook Inc.
+ASN	United States AS32934 FACEBOOK, US (registered Aug 24, 2004)
+IP History	297 changes on 297 unique IP addresses over 18 years	  
+Registrar History	4 registrars with 1 drop	  
+Hosting History	4 changes on 4 unique name servers over 17 years	  
+ Website
+Website Title	None given.	  
+Terms	97 (Unique: 82, Linked: 67)
+Images	2 (Alt tags missing: 1)
+Links	47   (Internal: 38, Outbound: 3)
+
+=========================================================
+
+Google
+===============================
+Registrant Org	Google LLC
+Registrant Country	us
+Registrar	MarkMonitor, Inc. MarkMonitor Inc.
+IANA ID: 292
+URL: http://www.markmonitor.com
+Whois Server: whois.markmonitor.com
+
+(p)
+Registrar Status	clientDeleteProhibited, clientTransferProhibited, clientUpdateProhibited, serverDeleteProhibited, serverTransferProhibited, serverUpdateProhibited
+Dates	8,890 days old
+Created on 1997-09-15
+Expires on 2028-09-13
+Updated on 2019-09-09	  
+Name Servers	NS1.GOOGLE.COM (has 16,752 domains)
+NS2.GOOGLE.COM (has 16,752 domains)
+NS3.GOOGLE.COM (has 16,752 domains)
+NS4.GOOGLE.COM (has 16,752 domains)
+  
+Tech Contact	—
+IP Address	142.250.69.196 - 80 other sites hosted on this server
+  
+IP Location	United States - Washington - Seattle - Google
+ASN	United States AS15169 GOOGLE, US (registered Mar 30, 2000)
+IP History	366 changes on 366 unique IP addresses over 18 years	  
+Registrar History	3 registrars with 1 drop	  
+ Website
+Website Title	  Google	  
+Server Type	gws
+Response Code	200
+Terms	41 (Unique: 34, Linked: 32)
+Images	1 (Alt tags missing: 0)
+Links	19   (Internal: 16, Outbound: 2)
+
+========================================================
+GSM Arena
+==============================
+Registrant Org	Arena Com Ltd
+Registrant Country	bg
+Registrar	CSL Computer Service Langenbach GmbH d/b/a joker.com
+IANA ID: 113
+URL: https://joker.com,http://www.joker.com
+Whois Server: whois.joker.com
+
+(p)
+Registrar Status	clientTransferProhibited
+Dates	7,886 days old
+Created on 2000-06-15
+Expires on 2023-06-15
+Updated on 2018-04-26	  
+Name Servers	NS.TETRACOM.COM (has 17 domains)
+NS1.TETRACOM-BG.COM (has 6 domains)
+  
+Tech Contact	—
+IP Address	148.251.96.211 is hosted on a dedicated server
+  
+IP Location	Germany - Bayern - Gunzenhausen - Hetzner Online Gmbh
+ASN	Germany AS24940 HETZNER-AS, DE (registered Jun 03, 2002)
+Domain Status	Registered And Active Website
+IP History	11 changes on 11 unique IP addresses over 18 years	  
+Registrar History	1 registrar	  
+Hosting History	3 changes on 2 unique name servers over 16 years	  
+ Website
+Website Title	  500 SSL negotiation failed:	  
+Response Code	500
+============================================================
+
+tech crunch
+================================
+Registrant Org	Yahoo Assets LLC
+Registrant Country	us
+Registrar	MarkMonitor, Inc. MarkMonitor Inc.
+IANA ID: 292
+URL: http://www.markmonitor.com
+Whois Server: whois.markmonitor.com
+
+(p)
+Registrar Status	clientDeleteProhibited, clientTransferProhibited, clientUpdateProhibited, serverDeleteProhibited, serverTransferProhibited, serverUpdateProhibited
+Dates	6,065 days old
+Created on 2005-06-10
+Expires on 2022-06-10
+Updated on 2021-12-16	  
+Name Servers	NS1.TECHCRUNCH.COM (has 1 domains)
+NS2.TECHCRUNCH.COM (has 1 domains)
+NS3.TECHCRUNCH.COM (has 1 domains)
+NS4.TECHCRUNCH.COM (has 1 domains)
+  
+Tech Contact	—
+IP Address	67.195.231.20 - 91 other sites hosted on this server
+  
+IP Location	United States - Washington - Quincy - Oath Holdings Inc.
+ASN	United States AS36647 YAHOO-GQ1, US (registered Mar 02, 2006)
+IP History	19 changes on 19 unique IP addresses over 17 years	  
+Registrar History	4 registrars	  
+Hosting History	7 changes on 8 unique name servers over 17 years	  
+ Website
+Website Title	None given.	  
+Server Type	ATS
+Response Code	200
+Terms	18,062 (Unique: 2,339, Linked: 292)
+Images	20 (Alt tags missing: 20)
+Links	64   (Internal: 64, Outbound: 0)
+
