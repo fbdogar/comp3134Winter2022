@@ -1,0 +1,141 @@
+09:59:49.785036 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > cpec09435c3be97-cmc09435c3be95.cpe.net.cable.rogers.com.58902: Flags [P.], seq 1084924:1085144, ack 433, win 501, length 220
+09:59:49.785150 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > cpec09435c3be97-cmc09435c3be95.cpe.net.cable.rogers.com.58902: Flags [P.], seq 1085144:1085364, ack 433, win 501, length 220
+09:59:49.785251 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > cpec09435c3be97-cmc09435c3be95.cpe.net.cable.rogers.com.58902: Flags [P.], seq 1085364:1085584, ack 433, win 501, length 220
+09:59:49.785287 IP cpec09435c3be97-cmc09435c3be95.cpe.net.cable.rogers.com.58902 > lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh: Flags [.], ack 1057484, win 686, length 0
+09:59:49.785287 IP cpec09435c3be97-cmc09435c3be95.cpe.net.cable.rogers.com.58902 > lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh: Flags [.], ack 1059904, win 676, length 0
+09:59:49.785507 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > cpec09435c3be97-cmc09435c3be95.cpe.net.cable.rogers.com.58902: Flags [P.], seq 1085584:1086132, ack 433, win 501, length 548
+09:59:49.785613 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > cpec09435c3be97-cmc09435c3be95.cpe.net.cable.rogers.com.58902: Flags [P.], seq 1086132:1086352, ack 433, win 501, length 220
+09:59:49.785706 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > cpec09435c3be97-cmc09435c3be95.cpe.net.cable.rogers.com.58902: Flags [P.], seq 1086352:1086572, ack 433, win 501, length 220
+09:59:49.785987 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > cpec09435c3be97-cmc09435c3be95.cpe.net.cable.rogers.com.58902: Flags [P.], seq 1086572:1086792, ack 433, win 501, length 220
+09:59:49.786093 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > cpec09435c3be97-cmc09435c3be95.cpe.net.cable.rogers.com.58902: Flags [P.], seq 1086792:1087012, ack 433, win 501, length 220
+09:59:49.786205 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > cpec09435c3be97-cmc09435c3be95.cpe.net.cable.rogers.com.58902: Flags [P.], seq 1087012:1087232, ack 433, win 501, length 220
+09:59:49.786305 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > cpec09435c3be97-cmc09435c3be95.cpe.net.cable.rogers.com.58902: Flags [P.], seq 1087232:1087452, ack 433, win 501, length 220
+09:59:49.786413 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > cpec09435c3be97-cmc09435c3be95.cpe.net.cable.rogers.com.58902: Flags [P.], seq 1087452:1087672, ack 433, win 501, length 220
+09:59:49.786516 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > cpec09435c3be97-cmc09435c3be95.cpe.net.cable.rogers.com.58902: Flags [P.], seq 1087672:1087892, ack 433, win 501, length 220
+09:59:49.786718 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > cpec09435c3be97-cmc09435c3be95.cpe.net.cable.rogers.com.58902: Flags [P.], seq 1087892:1088112, ack 433, win 501, length 220
+09:59:49.786827 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > cpec09435c3be97-cmc09435c3be95.cpe.net.cable.rogers.com.58902: Flags [P.], seq 1088112:1088332, ack 433, win 501, length 220
+09:59:49.786948 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > cpec09435c3be97-cmc09435c3be95.cpe.net.cable.rogers.com.58902: Flags [P.], seq 1088332:1088552, ack 433, win 501, length 220
+09:59:49.787039 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > cpec09435c3be97-cmc09435c3be95.cpe.net.cable.rogers.com.58902: Flags [P.], seq 1088552:1088772, ack 433, win 501, length 220
+09:59:49.787130 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > cpec09435c3be97-cmc09435c3be95.cpe.net.cable.rogers.com.58902: Flags [P.], seq 1088772:1088992, ack 433, win 501, length 220
+09:59:49.787229 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > cpec09435c3be97-cmc09435c3be95.cpe.net.cable.rogers.com.58902: Flags [P.], seq 1088992:1089212, ack 433, win 501, length 220
+09:59:49.787323 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > cpec09435c3be97-cmc09435c3be95.cpe.net.cable.rogers.com.58902: Flags [P.], seq 1089212:1089432, ack 433, win 501, length 220
+09:59:49.787417 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > cpec09435c3be97-cmc09435c3be95.cpe.net.cable.rogers.com.58902: Flags [P.], seq 1089432:1089652, ack 433, win 501, length 220
+09:59:49.787516 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > cpec09435c3be97-cmc09435c3be95.cpe.net.cable.rogers.com.58902: Flags [P.], seq 1089652:1089872, ack 433, win 501, length 220
+09:59:49.787616 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > cpec09435c3be97-cmc09435c3be95.cpe.net.cable.rogers.com.58902: Flags [P.], seq 1089872:1090092, ack 433, win 501, length 220
+09:59:49.787715 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > cpec09435c3be97-cmc09435c3be95.cpe.net.cable.rogers.com.58902: Flags [P.], seq 1090092:1090312, ack 433, win 501, length 220
+09:59:49.787815 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > cpec09435c3be97-cmc09435c3be95.cpe.net.cable.rogers.com.58902: Flags [P.], seq 1090312:1090532, ack 433, win 501, length 220
+09:59:49.787917 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > cpec09435c3be97-cmc09435c3be95.cpe.net.cable.rogers.com.58902: Flags [P.], seq 1090532:1090752, ack 433, win 501, length 220
+09:59:49.788015 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > cpec09435c3be97-cmc09435c3be95.cpe.net.cable.rogers.com.58902: Flags [P.], seq 1090752:1090972, ack 433, win 501, length 220
+09:59:49.788122 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > cpec09435c3be97-cmc09435c3be95.cpe.net.cable.rogers.com.58902: Flags [P.], seq 1090972:1091192, ack 433, win 501, length 220
+09:59:49.788220 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > cpec09435c3be97-cmc09435c3be95.cpe.net.cable.rogers.com.58902: Flags [P.], seq 1091192:1091412, ack 433, win 501, length 220
+09:59:49.788317 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > cpec09435c3be97-cmc09435c3be95.cpe.net.cable.rogers.com.58902: Flags [P.], seq 1091412:1091632, ack 433, win 501, length 220
+09:59:49.788418 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > cpec09435c3be97-cmc09435c3be95.cpe.net.cable.rogers.com.58902: Flags [P.], seq 1091632:1091852, ack 433, win 501, length 220
+09:59:49.788515 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > cpec09435c3be97-cmc09435c3be95.cpe.net.cable.rogers.com.58902: Flags [P.], seq 1091852:1092072, ack 433, win 501, length 220
+09:59:49.788615 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > cpec09435c3be97-cmc09435c3be95.cpe.net.cable.rogers.com.58902: Flags [P.], seq 1092072:1092292, ack 433, win 501, length 220
+09:59:49.788723 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > cpec09435c3be97-cmc09435c3be95.cpe.net.cable.rogers.com.58902: Flags [P.], seq 1092292:1092512, ack 433, win 501, length 220
+09:59:49.788827 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > cpec09435c3be97-cmc09435c3be95.cpe.net.cable.rogers.com.58902: Flags [P.], seq 1092512:1092732, ack 433, win 501, length 220
+09:59:49.788928 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > cpec09435c3be97-cmc09435c3be95.cpe.net.cable.rogers.com.58902: Flags [P.], seq 1092732:1092952, ack 433, win 501, length 220
+09:59:49.789036 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > cpec09435c3be97-cmc09435c3be95.cpe.net.cable.rogers.com.58902: Flags [P.], seq 1092952:1093172, ack 433, win 501, length 220
+09:59:49.789136 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > cpec09435c3be97-cmc09435c3be95.cpe.net.cable.rogers.com.58902: Flags [P.], seq 1093172:1093392, ack 433, win 501, length 220
+09:59:49.789244 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > cpec09435c3be97-cmc09435c3be95.cpe.net.cable.rogers.com.58902: Flags [P.], seq 1093392:1093612, ack 433, win 501, length 220
+09:59:49.789343 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > cpec09435c3be97-cmc09435c3be95.cpe.net.cable.rogers.com.58902: Flags [P.], seq 1093612:1093832, ack 433, win 501, length 220
+09:59:49.789442 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > cpec09435c3be97-cmc09435c3be95.cpe.net.cable.rogers.com.58902: Flags [P.], seq 1093832:1094052, ack 433, win 501, length 220
+09:59:49.789554 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > cpec09435c3be97-cmc09435c3be95.cpe.net.cable.rogers.com.58902: Flags [P.], seq 1094052:1094272, ack 433, win 501, length 220
+09:59:49.789655 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > cpec09435c3be97-cmc09435c3be95.cpe.net.cable.rogers.com.58902: Flags [P.], seq 1094272:1094492, ack 433, win 501, length 220
+09:59:49.789759 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > cpec09435c3be97-cmc09435c3be95.cpe.net.cable.rogers.com.58902: Flags [P.], seq 1094492:1094712, ack 433, win 501, length 220
+09:59:49.789887 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > cpec09435c3be97-cmc09435c3be95.cpe.net.cable.rogers.com.58902: Flags [P.], seq 1094712:1094932, ack 433, win 501, length 220
+09:59:49.789991 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > cpec09435c3be97-cmc09435c3be95.cpe.net.cable.rogers.com.58902: Flags [P.], seq 1094932:1095152, ack 433, win 501, length 220
+09:59:49.790089 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > cpec09435c3be97-cmc09435c3be95.cpe.net.cable.rogers.com.58902: Flags [P.], seq 1095152:1095372, ack 433, win 501, length 220
+09:59:49.790189 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > cpec09435c3be97-cmc09435c3be95.cpe.net.cable.rogers.com.58902: Flags [P.], seq 1095372:1095592, ack 433, win 501, length 220
+09:59:49.790293 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > cpec09435c3be97-cmc09435c3be95.cpe.net.cable.rogers.com.58902: Flags [P.], seq 1095592:1095812, ack 433, win 501, length 220
+09:59:49.790406 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > cpec09435c3be97-cmc09435c3be95.cpe.net.cable.rogers.com.58902: Flags [P.], seq 1095812:1096032, ack 433, win 501, length 220
+09:59:49.790518 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > cpec09435c3be97-cmc09435c3be95.cpe.net.cable.rogers.com.58902: Flags [P.], seq 1096032:1096252, ack 433, win 501, length 220
+09:59:49.790638 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > cpec09435c3be97-cmc09435c3be95.cpe.net.cable.rogers.com.58902: Flags [P.], seq 1096252:1096472, ack 433, win 501, length 220
+09:59:49.790741 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > cpec09435c3be97-cmc09435c3be95.cpe.net.cable.rogers.com.58902: Flags [P.], seq 1096472:1096692, ack 433, win 501, length 220
+09:59:49.790847 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > cpec09435c3be97-cmc09435c3be95.cpe.net.cable.rogers.com.58902: Flags [P.], seq 1096692:1096912, ack 433, win 501, length 220
+09:59:49.790948 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > cpec09435c3be97-cmc09435c3be95.cpe.net.cable.rogers.com.58902: Flags [P.], seq 1096912:1097132, ack 433, win 501, length 220
+09:59:49.791058 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > cpec09435c3be97-cmc09435c3be95.cpe.net.cable.rogers.com.58902: Flags [P.], seq 1097132:1097352, ack 433, win 501, length 220
+09:59:49.791162 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > cpec09435c3be97-cmc09435c3be95.cpe.net.cable.rogers.com.58902: Flags [P.], seq 1097352:1097572, ack 433, win 501, length 220
+09:59:49.791262 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > cpec09435c3be97-cmc09435c3be95.cpe.net.cable.rogers.com.58902: Flags [P.], seq 1097572:1097792, ack 433, win 501, length 220
+09:59:49.791366 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > cpec09435c3be97-cmc09435c3be95.cpe.net.cable.rogers.com.58902: Flags [P.], seq 1097792:1098012, ack 433, win 501, length 220
+09:59:49.791469 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > cpec09435c3be97-cmc09435c3be95.cpe.net.cable.rogers.com.58902: Flags [P.], seq 1098012:1098232, ack 433, win 501, length 220
+09:59:49.791566 IP cpec09435c3be97-cmc09435c3be95.cpe.net.cable.rogers.com.58902 > lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh: Flags [.], ack 1062544, win 666, length 0
+09:59:49.791573 IP cpec09435c3be97-cmc09435c3be95.cpe.net.cable.rogers.com.58902 > lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh: Flags [.], ack 1064524, win 658, length 0
+09:59:49.791573 IP cpec09435c3be97-cmc09435c3be95.cpe.net.cable.rogers.com.58902 > lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh: Flags [.], ack 1066724, win 650, length 0
+09:59:49.791573 IP cpec09435c3be97-cmc09435c3be95.cpe.net.cable.rogers.com.58902 > lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh: Flags [.], ack 1069144, win 640, length 0
+09:59:49.791574 IP cpec09435c3be97-cmc09435c3be95.cpe.net.cable.rogers.com.58902 > lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh: Flags [.], ack 1071284, win 632, length 0
+09:59:49.791574 IP cpec09435c3be97-cmc09435c3be95.cpe.net.cable.rogers.com.58902 > lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh: Flags [.], ack 1072384, win 627, length 0
+09:59:49.791815 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > cpec09435c3be97-cmc09435c3be95.cpe.net.cable.rogers.com.58902: Flags [P.], seq 1098232:1099428, ack 433, win 501, length 1196
+09:59:49.791924 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > cpec09435c3be97-cmc09435c3be95.cpe.net.cable.rogers.com.58902: Flags [P.], seq 1099428:1099648, ack 433, win 501, length 220
+09:59:49.792024 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > cpec09435c3be97-cmc09435c3be95.cpe.net.cable.rogers.com.58902: Flags [P.], seq 1099648:1099868, ack 433, win 501, length 220
+09:59:49.792224 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > cpec09435c3be97-cmc09435c3be95.cpe.net.cable.rogers.com.58902: Flags [P.], seq 1099868:1100088, ack 433, win 501, length 220
+09:59:49.792324 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > cpec09435c3be97-cmc09435c3be95.cpe.net.cable.rogers.com.58902: Flags [P.], seq 1100088:1100308, ack 433, win 501, length 220
+09:59:49.792424 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > cpec09435c3be97-cmc09435c3be95.cpe.net.cable.rogers.com.58902: Flags [P.], seq 1100308:1100528, ack 433, win 501, length 220
+09:59:49.792523 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > cpec09435c3be97-cmc09435c3be95.cpe.net.cable.rogers.com.58902: Flags [P.], seq 1100528:1100748, ack 433, win 501, length 220
+09:59:49.792609 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > cpec09435c3be97-cmc09435c3be95.cpe.net.cable.rogers.com.58902: Flags [P.], seq 1100748:1100968, ack 433, win 501, length 220
+09:59:49.792691 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > cpec09435c3be97-cmc09435c3be95.cpe.net.cable.rogers.com.58902: Flags [P.], seq 1100968:1101188, ack 433, win 501, length 220
+09:59:49.792771 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > cpec09435c3be97-cmc09435c3be95.cpe.net.cable.rogers.com.58902: Flags [P.], seq 1101188:1101408, ack 433, win 501, length 220
+09:59:49.792848 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > cpec09435c3be97-cmc09435c3be95.cpe.net.cable.rogers.com.58902: Flags [P.], seq 1101408:1101628, ack 433, win 501, length 220
+09:59:49.792924 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > cpec09435c3be97-cmc09435c3be95.cpe.net.cable.rogers.com.58902: Flags [P.], seq 1101628:1101848, ack 433, win 501, length 220
+09:59:49.792999 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > cpec09435c3be97-cmc09435c3be95.cpe.net.cable.rogers.com.58902: Flags [P.], seq 1101848:1102068, ack 433, win 501, length 220
+09:59:49.793279 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > cpec09435c3be97-cmc09435c3be95.cpe.net.cable.rogers.com.58902: Flags [P.], seq 1102068:1102288, ack 433, win 501, length 220
+09:59:49.793436 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > cpec09435c3be97-cmc09435c3be95.cpe.net.cable.rogers.com.58902: Flags [P.], seq 1102288:1102508, ack 433, win 501, length 220
+09:59:49.793675 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > cpec09435c3be97-cmc09435c3be95.cpe.net.cable.rogers.com.58902: Flags [P.], seq 1102508:1102728, ack 433, win 501, length 220
+09:59:49.793925 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > cpec09435c3be97-cmc09435c3be95.cpe.net.cable.rogers.com.58902: Flags [P.], seq 1102728:1102948, ack 433, win 501, length 220
+09:59:49.794029 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > cpec09435c3be97-cmc09435c3be95.cpe.net.cable.rogers.com.58902: Flags [P.], seq 1102948:1103168, ack 433, win 501, length 220
+09:59:49.794130 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > cpec09435c3be97-cmc09435c3be95.cpe.net.cable.rogers.com.58902: Flags [P.], seq 1103168:1103388, ack 433, win 501, length 220
+09:59:49.794236 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > cpec09435c3be97-cmc09435c3be95.cpe.net.cable.rogers.com.58902: Flags [P.], seq 1103388:1103608, ack 433, win 501, length 220
+09:59:49.794341 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > cpec09435c3be97-cmc09435c3be95.cpe.net.cable.rogers.com.58902: Flags [P.], seq 1103608:1103828, ack 433, win 501, length 220
+09:59:49.794444 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > cpec09435c3be97-cmc09435c3be95.cpe.net.cable.rogers.com.58902: Flags [P.], seq 1103828:1104048, ack 433, win 501, length 220
+09:59:49.794551 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > cpec09435c3be97-cmc09435c3be95.cpe.net.cable.rogers.com.58902: Flags [P.], seq 1104048:1104268, ack 433, win 501, length 220
+09:59:49.794675 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > cpec09435c3be97-cmc09435c3be95.cpe.net.cable.rogers.com.58902: Flags [P.], seq 1104268:1104488, ack 433, win 501, length 220
+09:59:49.794776 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > cpec09435c3be97-cmc09435c3be95.cpe.net.cable.rogers.com.58902: Flags [P.], seq 1104488:1104708, ack 433, win 501, length 220
+09:59:49.794882 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > cpec09435c3be97-cmc09435c3be95.cpe.net.cable.rogers.com.58902: Flags [P.], seq 1104708:1104928, ack 433, win 501, length 220
+09:59:49.794982 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > cpec09435c3be97-cmc09435c3be95.cpe.net.cable.rogers.com.58902: Flags [P.], seq 1104928:1105148, ack 433, win 501, length 220
+09:59:49.795086 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > cpec09435c3be97-cmc09435c3be95.cpe.net.cable.rogers.com.58902: Flags [P.], seq 1105148:1105368, ack 433, win 501, length 220
+09:59:49.795191 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > cpec09435c3be97-cmc09435c3be95.cpe.net.cable.rogers.com.58902: Flags [P.], seq 1105368:1105588, ack 433, win 501, length 220
+09:59:49.795295 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > cpec09435c3be97-cmc09435c3be95.cpe.net.cable.rogers.com.58902: Flags [P.], seq 1105588:1105808, ack 433, win 501, length 220
+09:59:49.795397 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > cpec09435c3be97-cmc09435c3be95.cpe.net.cable.rogers.com.58902: Flags [P.], seq 1105808:1106028, ack 433, win 501, length 220
+09:59:49.795495 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > cpec09435c3be97-cmc09435c3be95.cpe.net.cable.rogers.com.58902: Flags [P.], seq 1106028:1106248, ack 433, win 501, length 220
+09:59:49.795599 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > cpec09435c3be97-cmc09435c3be95.cpe.net.cable.rogers.com.58902: Flags [P.], seq 1106248:1106468, ack 433, win 501, length 220
+09:59:49.795701 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > cpec09435c3be97-cmc09435c3be95.cpe.net.cable.rogers.com.58902: Flags [P.], seq 1106468:1106688, ack 433, win 501, length 220
+09:59:49.795935 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > cpec09435c3be97-cmc09435c3be95.cpe.net.cable.rogers.com.58902: Flags [P.], seq 1106688:1106908, ack 433, win 501, length 220
+09:59:49.796051 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > cpec09435c3be97-cmc09435c3be95.cpe.net.cable.rogers.com.58902: Flags [P.], seq 1106908:1107128, ack 433, win 501, length 220
+09:59:49.796155 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > cpec09435c3be97-cmc09435c3be95.cpe.net.cable.rogers.com.58902: Flags [P.], seq 1107128:1107348, ack 433, win 501, length 220
+09:59:49.796254 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > cpec09435c3be97-cmc09435c3be95.cpe.net.cable.rogers.com.58902: Flags [P.], seq 1107348:1107568, ack 433, win 501, length 220
+09:59:49.796360 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > cpec09435c3be97-cmc09435c3be95.cpe.net.cable.rogers.com.58902: Flags [P.], seq 1107568:1107788, ack 433, win 501, length 220
+09:59:49.796463 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > cpec09435c3be97-cmc09435c3be95.cpe.net.cable.rogers.com.58902: Flags [P.], seq 1107788:1108008, ack 433, win 501, length 220
+09:59:49.796568 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > cpec09435c3be97-cmc09435c3be95.cpe.net.cable.rogers.com.58902: Flags [P.], seq 1108008:1108228, ack 433, win 501, length 220
+09:59:49.796673 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > cpec09435c3be97-cmc09435c3be95.cpe.net.cable.rogers.com.58902: Flags [P.], seq 1108228:1108448, ack 433, win 501, length 220
+09:59:49.796770 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > cpec09435c3be97-cmc09435c3be95.cpe.net.cable.rogers.com.58902: Flags [P.], seq 1108448:1108668, ack 433, win 501, length 220
+09:59:49.796867 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > cpec09435c3be97-cmc09435c3be95.cpe.net.cable.rogers.com.58902: Flags [P.], seq 1108668:1108888, ack 433, win 501, length 220
+09:59:49.796964 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > cpec09435c3be97-cmc09435c3be95.cpe.net.cable.rogers.com.58902: Flags [P.], seq 1108888:1109108, ack 433, win 501, length 220
+09:59:49.797068 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > cpec09435c3be97-cmc09435c3be95.cpe.net.cable.rogers.com.58902: Flags [P.], seq 1109108:1109328, ack 433, win 501, length 220
+09:59:49.797175 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > cpec09435c3be97-cmc09435c3be95.cpe.net.cable.rogers.com.58902: Flags [P.], seq 1109328:1109548, ack 433, win 501, length 220
+09:59:49.797276 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > cpec09435c3be97-cmc09435c3be95.cpe.net.cable.rogers.com.58902: Flags [P.], seq 1109548:1109768, ack 433, win 501, length 220
+09:59:49.797379 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > cpec09435c3be97-cmc09435c3be95.cpe.net.cable.rogers.com.58902: Flags [P.], seq 1109768:1109988, ack 433, win 501, length 220
+09:59:49.797485 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > cpec09435c3be97-cmc09435c3be95.cpe.net.cable.rogers.com.58902: Flags [P.], seq 1109988:1110208, ack 433, win 501, length 220
+09:59:49.797581 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > cpec09435c3be97-cmc09435c3be95.cpe.net.cable.rogers.com.58902: Flags [P.], seq 1110208:1110428, ack 433, win 501, length 220
+09:59:49.797676 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > cpec09435c3be97-cmc09435c3be95.cpe.net.cable.rogers.com.58902: Flags [P.], seq 1110428:1110648, ack 433, win 501, length 220
+09:59:49.797800 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > cpec09435c3be97-cmc09435c3be95.cpe.net.cable.rogers.com.58902: Flags [P.], seq 1110648:1110868, ack 433, win 501, length 220
+09:59:49.797902 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > cpec09435c3be97-cmc09435c3be95.cpe.net.cable.rogers.com.58902: Flags [P.], seq 1110868:1111088, ack 433, win 501, length 220
+09:59:49.798004 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > cpec09435c3be97-cmc09435c3be95.cpe.net.cable.rogers.com.58902: Flags [P.], seq 1111088:1111308, ack 433, win 501, length 220
+09:59:49.798107 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > cpec09435c3be97-cmc09435c3be95.cpe.net.cable.rogers.com.58902: Flags [P.], seq 1111308:1111528, ack 433, win 501, length 220
+09:59:49.798216 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > cpec09435c3be97-cmc09435c3be95.cpe.net.cable.rogers.com.58902: Flags [P.], seq 1111528:1111748, ack 433, win 501, length 220
+09:59:49.798323 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > cpec09435c3be97-cmc09435c3be95.cpe.net.cable.rogers.com.58902: Flags [P.], seq 1111748:1111968, ack 433, win 501, length 220
+09:59:49.798424 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > cpec09435c3be97-cmc09435c3be95.cpe.net.cable.rogers.com.58902: Flags [P.], seq 1111968:1112188, ack 433, win 501, length 220
+09:59:49.798558 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > cpec09435c3be97-cmc09435c3be95.cpe.net.cable.rogers.com.58902: Flags [P.], seq 1112188:1112408, ack 433, win 501, length 220
+09:59:49.798793 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > cpec09435c3be97-cmc09435c3be95.cpe.net.cable.rogers.com.58902: Flags [P.], seq 1112408:1112628, ack 433, win 501, length 220
+09:59:49.798899 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > cpec09435c3be97-cmc09435c3be95.cpe.net.cable.rogers.com.58902: Flags [P.], seq 1112628:1112848, ack 433, win 501, length 220
+09:59:49.798999 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > cpec09435c3be97-cmc09435c3be95.cpe.net.cable.rogers.com.58902: Flags [P.], seq 1112848:1113068, ack 433, win 501, length 220
+09:59:49.799108 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > cpec09435c3be97-cmc09435c3be95.cpe.net.cable.rogers.com.58902: Flags [P.], seq 1113068:1113288, ack 433, win 501, length 220
+09:59:49.799218 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > cpec09435c3be97-cmc09435c3be95.cpe.net.cable.rogers.com.58902: Flags [P.], seq 1113288:1113508, ack 433, win 501, length 220
+09:59:49.799325 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > cpec09435c3be97-cmc09435c3be95.cpe.net.cable.rogers.com.58902: Flags [P.], seq 1113508:1113728, ack 433, win 501, length 220
+09:59:49.799430 IP cpec09435c3be97-cmc09435c3be95.cpe.net.cable.rogers.com.58902 > lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh: Flags [.], ack 1072384, win 1026, length 0
+09:59:49.799430 IP cpec09435c3be97-cmc09435c3be95.cpe.net.cable.rogers.com.58902 > lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh: Flags [P.], seq 433:505, ack 1072384, win 1026, length 72
+09:59:49.799430 IP cpec09435c3be97-cmc09435c3be95.cpe.net.cable.rogers.com.58902 > lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh: Flags [.], ack 1079864, win 997, length 0
+09:59:49.799431 IP cpec09435c3be97-cmc09435c3be95.cpe.net.cable.rogers.com.58902 > lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh: Flags [.], ack 1082284, win 987, length 0
+09:59:49.799431 IP cpec09435c3be97-cmc09435c3be95.cpe.net.cable.rogers.com.58902 > lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh: Flags [.], ack 1083824, win 981, length 0
+09:59:49.799431 IP cpec09435c3be97-cmc09435c3be95.cpe.net.cable.rogers.com.58902 > lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh: Flags [.], ack 1085584, win 975, length 0
+09:59:49.799431 IP cpec09435c3be97-cmc09435c3be95.cpe.net.cable.rogers.com.58902 > lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh: Flags [.], ack 1087452, win 967, length 0
+09:59:49.799685 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > cpec09435c3be97-cmc09435c3be95.cpe.net.cable.rogers.com.58902: Flags [P.], seq 1113728:1113948, ack 505, win 501, length 220
